@@ -1,4 +1,4 @@
 langhage: java
 jdk:
-  -oraclejdk8
+  -oraclejdk16
   
